@@ -1,3 +1,4 @@
 # JACOBIAN-MATRIX
- DRY LAB #2
-<img src="IMG/dry lab #2.jpg">
+ DRY LAB #2 
+ 
+<img src="IMG/drylab#2.JPG">
